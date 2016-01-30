@@ -1,2 +1,2 @@
 # Sen'School Manangement System
-### Solution libre et open source pour la gestion des cours dans les écoles
+### Solution pour la gestion des écoles primaires, secondaires, lycée et universités
